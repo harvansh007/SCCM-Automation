@@ -1,2 +1,3 @@
 # SCCM-Automation
-SCCM Automation
+SCCM Collection Creation Tool.
+
